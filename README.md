@@ -15,3 +15,6 @@
     3. 代理IP的API接口
     4. 线程池数量
     5. 默认超时时间
+
+如果提示 获取代理IP出错： 请到 http://www.data5u.com 获取最新的代理IP-API接口，或者修改Memory.useProxyIp=false 
+按照提示关闭代理IP服务即可。
