@@ -6,7 +6,7 @@
 
 > 运行Starter类启动爬虫
 
-> 如需要使用代理IP，请到[https://www.data5u.com](无忧代理IP http://www.data5u.com)
+> 如需要使用代理IP，请到[无忧代理IP https://www.data5u.com](http://www.data5u.com)
 
 > 需要修改test.config包下面的Memory类，可以修改
 
